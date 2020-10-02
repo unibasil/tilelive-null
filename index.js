@@ -17,3 +17,4 @@ Null.prototype.close = function(callback) {
 };
 
 module.exports = Null;
+
